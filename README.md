@@ -1,0 +1,3 @@
+# yii2-upload-file
+A file upload plugin includes uploaded widgets and uploaded action
+# loading...
